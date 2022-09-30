@@ -1,5 +1,11 @@
 # DataStructure
 it is a storage which is used to store and organize and update the data.It is the way of organizing the data on a computer so that it can be accessed and update  effeciently.
+ Data Structure=  Organized data + Allowed Operations.
+ 
+ it is a set of values along with set of operations permitted on them.
+ - A set of data values
+ - A set of functions specifying the operations permitted on the data.
+ - A SET Of axioms how these operations work.
  
  Data- it can be defined which are used together to represent a specific data element e.g- name of a student in a class is represented by  the data item,say, NAME.
  Representation of facts, concepts or instructions in formalized manner suitable for communication,interpretation or processing by human or electronic machine.
