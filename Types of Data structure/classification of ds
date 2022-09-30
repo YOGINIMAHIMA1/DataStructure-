@@ -1,0 +1,25 @@
+                       classification of Data Structure
+                                       |
+                                       |
+                                       |
+                       ________________|_____________________________________________________  
+                       |                                                                     |
+                       |                                                                     |
+                       |                                                                     |
+                       |                                                                     |
+               LINEAR DATA STRUCTURE                                             NON-LINEAR DATA STRUCTURE
+                       |                                                                      |
+                       |                                                                      | 
+             __________|______________________                                                           |
+             |                     |          |                                        _____________________
+             |                     |          |                                       |                     |
+             |                     |          |                                       |                     | 
+             STATIC            DYNAMIC         LINKED LIST                           TREES               GRAPHS
+               |                  |
+               ARRAYS            STACK,QUEUES
+               
+               
+   LINEAR DATA STRUCTURE-  THOSE DATA ELEMENTS WHICH ARE ARRANGED SEQUENTIALLY OR LINEARLY  I.E WHERE EACH ELEMENT IS ATTACHED TO ITS PREVIOUSLY AND NEXT ADJACENT ELEMENTS.
+   IS CALLED LINEAR DATA STRUCTURE.EG-  STACK, ARRAYS, QUEUES, LINKED LIST ETC
+   
+   >STATIC DATA STRUCTUE
