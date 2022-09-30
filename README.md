@@ -6,6 +6,8 @@ it is a storage which is used to store and organize and update the data.It is th
  - A set of data values
  - A set of functions specifying the operations permitted on the data.
  - A SET Of axioms how these operations work.
+ - ![image](https://user-images.githubusercontent.com/90374311/193190199-8536e9d9-4794-4cae-a760-d93db7045646.png)
+
  
  Data- it can be defined which are used together to represent a specific data element e.g- name of a student in a class is represented by  the data item,say, NAME.
  Representation of facts, concepts or instructions in formalized manner suitable for communication,interpretation or processing by human or electronic machine.
