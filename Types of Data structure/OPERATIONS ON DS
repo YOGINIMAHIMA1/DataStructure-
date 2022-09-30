@@ -1,0 +1,21 @@
+There are different types of operation that can be performed on data.
+- Traversing- Traversing a data structure means visit the element stored in it.it visit the data in systematic manner. this can be done with any type of DS.I.E Arrays, 
+Stack, Linked list,Queue.
+
+
+TRAVERSING IN AN ARRAY
+ #include<iostream>
+ using namespace std;
+ int main()
+ {
+ 
+    int arr[]={1,2,3,4,5,6} ; //intialization of an array
+    int N= sizeof(arr)/sizeof(arr[0]) ;
+    
+ //   Traverse the element of an array
+    for (int i=0;i<N;i++)
+    cout<<arr[i]<<' ' ; //print an arary
+    
+     }
+     return 0;
+     }
