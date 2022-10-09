@@ -21,13 +21,13 @@ int main()
     if(Change[i]%10==0)
       
     {
-      A[i]=10;
+      Change[i]=10;
     }
     else
     {
-      A[i]=0;
+      Change[i]=0;
     }
-    cout<<A[i] <<endl;
+    cout<<Change[i] <<endl;
     
   }
   return 0;
