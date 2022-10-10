@@ -33,7 +33,7 @@ int main()
       S[i]= S[i]+5;
     }
     
-    cout<<"S[i]:<< S[i]<<endl;
+    cout<<"S[i]:"<< S[i]<<endl;
     }
   return 0;
 }
