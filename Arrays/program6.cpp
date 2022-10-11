@@ -28,7 +28,7 @@ int main()
     }
     else
     {
-      Arr[i]= Arr[i] *3
+      Arr[i]= Arr[i] *3 ;
       }
     cout<<"Arr[i]"<<Arr[i]<<endl;
   }
