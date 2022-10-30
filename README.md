@@ -6,6 +6,8 @@ it is a storage which is used to store and organize and update the data.It is th
  - A set of data values
  - A set of functions specifying the operations permitted on the data.
  - A SET Of axioms how these operations work.
+ - ![image](https://user-images.githubusercontent.com/90374311/198872994-bb9175f4-0a8c-401d-93ab-a85862241fd9.png)
+
  - ![image](https://user-images.githubusercontent.com/90374311/193190199-8536e9d9-4794-4cae-a760-d93db7045646.png)
 
  
