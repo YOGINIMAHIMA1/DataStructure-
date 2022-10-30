@@ -9,7 +9,11 @@ it is a storage which is used to store and organize and update the data.It is th
  - ![image](https://user-images.githubusercontent.com/90374311/198872994-bb9175f4-0a8c-401d-93ab-a85862241fd9.png)
 
  - ![image](https://user-images.githubusercontent.com/90374311/193190199-8536e9d9-4794-4cae-a760-d93db7045646.png)
-
+flow chart
+terminal-start/end
+parlellogram-input/output
+rectangle-logic/process
+rhombus-decision
  
  Data- it can be defined which are used together to represent a specific data element e.g- name of a student in a class is represented by  the data item,say, NAME.
  Representation of facts, concepts or instructions in formalized manner suitable for communication,interpretation or processing by human or electronic machine.
