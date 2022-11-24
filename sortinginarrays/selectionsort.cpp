@@ -10,4 +10,35 @@ using selection sort sort it in ascending order
      ----- | 2 | |12| |21| 23 56 45
      ------- |2| |12| |21| |23| 56 45  ---- 23 <->45
      ------ |2| |12| |21| |23| 45 56  ---- 45 <->56
-     ------ |2| |12| |21| |23||45| |56|--------------- sorted array in ascending order.
+     ------ |2| |12| |21| |23||45| |56|--------------- sorted array in ascending order. */
+ #include <iostream>
+using namespace std;
+ int main()
+ {
+   int n;
+   cin>>n;
+   int arr[n]; 
+   for(int i=0;i<n;i++)
+   {
+     cin>>arr[i]<<" ";
+   }
+   
+   for(int i=0;i<n-1;i++)
+   {
+     for(int j=i+1;j<n;j++)
+     {
+       int temp=a[j];
+       a[j]=a[i];
+       a[i]=temp;
+     }
+   
+   
+   
+   for(int i=0;i<n;i++)
+   {
+     
+     cout<<arr[i]<<" ";
+   }
+     /* time complexity=O(n^2)
+     space complexity- O(1)
+     */
