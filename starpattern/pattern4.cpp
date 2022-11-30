@@ -10,6 +10,8 @@ using namespace std;
      {
        cout<<j<<" ";
      }
+    cout<<endl;
+   }
      return 0;
    }
    /*Tc- O(n)
