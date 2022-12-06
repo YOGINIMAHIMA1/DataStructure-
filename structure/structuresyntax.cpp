@@ -1,7 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-int main()
-{
   struct student
   {
     int rollno;
@@ -13,7 +11,10 @@ int main()
       cout<<"RollNo="<<rollno<<endl;
       cout<<"Age="<<age<<endl;
       cout<<"Marks="<<marks<<endl;
+    }
     }; S
+      int main()
+    {
     struct student S={120,20,89};
     cout<<S.printdetails();
   }
